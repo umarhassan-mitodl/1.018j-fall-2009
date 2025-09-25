@@ -77,7 +77,7 @@ How to be alive/thermodynamics of life
 {{< tdopen >}}
 
 
-Kaiser, Jocelyn. "{{% resource_link "f35289e9-cb17-44c4-bce0-a3b67dd32435" "Can Deep Bacteria Live on Nothing but Rocks and Water" %}}?" _Science_ 270, no. 5235 (1995): 377.
+Kaiser, Jocelyn. "[Can Deep Bacteria Live on Nothing but Rocks and Water](http://science-mag.aaas.org/cgi/content/short/270/5235/377)?" _Science_ 270, no. 5235 (1995): 377.
 
 Jannasch, Holger W. "Life at the Sea Floor." _Nature_ 374 (1995): 676-677.
 
@@ -157,11 +157,11 @@ Global carbon cycle
 {{< tdopen >}}
 
 
-Canadell, Josep G., et al. "{{% resource_link "9f9f1d6e-0c0f-4d31-9a19-84e592f32019" "Contributions to Accelerating Atmospheric CO2 Growth from Economic Activity, Carbon Intensity, and Efficiency of Natural Sinks" %}}." _PNAS_ 104, no. 47 (2007): 18866-18870.
+Canadell, Josep G., et al. "[Contributions to Accelerating Atmospheric CO2 Growth from Economic Activity, Carbon Intensity, and Efficiency of Natural Sinks](http://www.pnas.org/content/104/47/18866.abstract)." _PNAS_ 104, no. 47 (2007): 18866-18870.
 
-Field, Christopher B., Michael J. Behrenfeld, James T. Randerson, and Paul Falkowski. "{{% resource_link "3b126114-7699-4ceb-916c-c38b1240237d" "Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components" %}}." _Science_ 281, no. 5374 (1998): 237-240.
+Field, Christopher B., Michael J. Behrenfeld, James T. Randerson, and Paul Falkowski. "[Primary Production of the Biosphere: Integrating Terrestrial and Oceanic Components](http://www.sciencemag.org/cgi/content/abstract/281/5374/237)." _Science_ 281, no. 5374 (1998): 237-240.
 
-Falkowski, Paul, et al. "{{% resource_link "800bf8b5-3335-4cc4-af8a-dc461b0e615e" "The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System" %}}." _Science_ 290, no. 5490 (2000): 291-296.
+Falkowski, Paul, et al. "[The Global Carbon Cycle: A Test of Our Knowledge of Earth as a System](http://www.sciencemag.org/cgi/content/abstract/290/5490/291)." _Science_ 290, no. 5490 (2000): 291-296.
 
 Doney, Scott C., Victoria J. Fabry, Richard A. Feely, and Joan A. Kleypas. "Ocean Acidification: The Other CO2 Problem." _Annual Review of Marine Science_ 1 (2009): 169-192.
 
@@ -209,7 +209,7 @@ Likens, Gene. "Some Perspectives on Long-term Biogeochemical Research from the H
 
 Lovelock, James. "A Geophysiologist's Thoughts on Geoengineering." _Philosophical Transactions of the Royal Society A_ 366, no. 1882 (2008): 3883-3890.
 
-Schiermeier, Quirin. "{{% resource_link "70e4fe42-eb76-4d47-82c6-8950551ac8fd" "Mixing the Oceans Proposed to Reduce Global Warming" %}}." _Naturenews_, September 26, 2007.
+Schiermeier, Quirin. "[Mixing the Oceans Proposed to Reduce Global Warming](https://www.nature.com/news/2007/070924/full/070924-8.html)." _Naturenews_, September 26, 2007.
 
 Kintisch, Eli. "Scientists Say Continued Warming Warrants Closer Look at Drastic Fixes." _Science_ 318 (2007): 1054-1055.
 
