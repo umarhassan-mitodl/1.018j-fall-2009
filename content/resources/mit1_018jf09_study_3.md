@@ -4,6 +4,8 @@ description: Quiz on ecology and the Earth as an integrated dynamic system.
 file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/293cfab7623c00559cf7b021bfdd5b9f_MIT1_018JF09_study_3.pdf
 file_size: 178776
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

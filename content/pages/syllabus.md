@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, textbooks
   and readings, recitations, class handouts, grading, expectations, academic honesty,
   and policy on cheating.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

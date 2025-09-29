@@ -5,6 +5,8 @@ description: Solutions to a quiz on ecology and the Earth as an integrated dynam
 file: /courses/1-018j-ecology-i-the-earth-system-fall-2009/2f529c7c35ba9e09c9a54793841a87b6_MIT1_018JF09_exam_3.pdf
 file_size: 330268
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
