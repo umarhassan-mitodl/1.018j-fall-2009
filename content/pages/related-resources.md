@@ -7,12 +7,12 @@ title: Related Resources
 uid: 6ce538b6-aa01-0464-1af8-244377126c16
 ---
 
-[Nature - Planetary Boundaries](http://www.nature.com/news/specials/planetaryboundaries/index.html)
+{{% resource_link "ce6b70dc-f778-4b13-95a9-a3410da6e46a" "Nature - Planetary Boundaries" %}}
 
-[Ecological Footprint Calculator](https://www.footprintcalculator.org/)
+{{% resource_link "b9504845-9c89-4025-a612-6d7acaca7b9f" "Ecological Footprint Calculator" %}}
 
-[A Sober Optimist's Guide to Sustainability](http://sloanreview.mit.edu/beyond-green/a-sober-optimists-guide-to-sustainability/)
+{{% resource_link "74253e1c-71d5-4b6b-98ac-4122e4ce6ea6" "A Sober Optimist's Guide to Sustainability" %}}
 
-[Are You On a 'Hedonic Treadmill'?](http://dotearth.blogs.nytimes.com/2009/08/31/are-you-on-a-hedonic-treadmill/)
+{{% resource_link "049d55c0-ca05-414a-bddb-bbee779573d3" "Are You On a 'Hedonic Treadmill'?" %}}
 
-[National Geographic - The Carbon Bathtub](http://ngm.nationalgeographic.com/big-idea/05/carbon-bath)
+{{% resource_link "70f28f98-9d3d-4d28-947e-1c51c7e96023" "National Geographic - The Carbon Bathtub" %}}
